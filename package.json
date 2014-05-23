@@ -1,0 +1,18 @@
+{
+  "name": "getFaces",
+  "version": "0.0.1",
+  "description": "get randowm user info especially avatar from serveic",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "face"
+  ],
+  "author": "chenllos",
+  "license": "mit",
+  "dependencies": {
+    "co": "^3.0.6",
+    "request": "^2.36.0"
+  }
+}
